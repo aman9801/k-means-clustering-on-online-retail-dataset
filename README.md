@@ -1,2 +1,14 @@
 # k-means-clustering-on-online-retail-dataset
-K-Means Clustering on Online Retail Dataset
+
+### Problem Statement
+Online retail is a transnational data set which contains all the transactions occurring between 01/12/2010 and 09/12/2011 for a UK-based and registered non-store online retail. The company mainly sells unique all-occasion gifts. Many customers of the company are wholesalers.
+
+### Analysis was done in Jupyter Notebook using these Python libraries - Pandas, Numpy, Sklearn, Scipy, Matplotib and Seaborn
+
+#### The steps are broadly:
+
+- Read and understand the data
+- Clean the data
+- Prepare the data for modelling
+- Modelling
+- Final analysis and reco
